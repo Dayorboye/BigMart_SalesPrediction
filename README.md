@@ -9,11 +9,11 @@ The aim of the project is to develop a predictive model that is able to predict 
 
 A careful examination of the dataset led to the following models being selected for training:
     
-     <li> LinearRegression Model</li>
-     <li> RandomForestRegressor</li>
-     <li> XGBRegressor</li>
+     * LinearRegression Model
+     * RandomForestRegressor
+     * XGBRegressor
      
-     *** ***
+
 
 ### Data collection and methodology
 * Data Collection From working directory
